@@ -7,7 +7,6 @@ def sub(a, b):
 
 
 def mul(a, b):
-<<<<<<< HEAD
     return a*b
 
 
